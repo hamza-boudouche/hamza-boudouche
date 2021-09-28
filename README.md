@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm hamza Boudouche</h1>
 <h3 align="center">A passionate Computer Science student <br> @ <a href="https://www.emi.ac.ma/">Mohammadia Schools of Engineers</a></h3>
 <h1></h1>
+<p align="center">
 <img align="center" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500" height="320" style="  display: block; margin-left: auto;margin-right: auto;"/>
-
+</p>
 <h3 align="left" style="margin-top: 20px;">About me:</h3>
 
 - 🔭 I’m passionate about backend dev, problem solving and artificial intelligence
