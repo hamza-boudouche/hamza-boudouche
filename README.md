@@ -10,7 +10,7 @@
 
 - 🌐 Have a look at my [portfolio](https://hboudouche.netlify.com)
 
-- 📄 Check my [CV](https://www.canva.com/design/DAEmahutfVk/pBV5kXP7led1BStE_lwb2w/view?utm_content=DAEmahutfVk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Check my CV ( [French](https://www.canva.com/design/DAEmahutfVk/pBV5kXP7led1BStE_lwb2w/view?utm_content=DAEmahutfVk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - [English](https://www.canva.com/design/DAE8BbK2Xcc/naer-PsNDrJQCinprKR3qw/view?utm_content=DAE8BbK2Xcc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) )
 
 - 👨‍💻 All of my open source projects are available [here](https://github.com/hamza-boudouche?tab=repositories)
 
